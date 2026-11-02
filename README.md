@@ -8,7 +8,3 @@
   </tr>
 </table>
 </div>
-
-<br> 
-${\textsf{\color{#DA8B93}exor he / him ✦ c + h comf ✦ sign ata / straw}}$
-</br>
