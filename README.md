@@ -1,1 +1,1 @@
-$\textcolor{#ff1700}{\blank}}$
+$\textcolor{#ff1700}{\blank}}$$
