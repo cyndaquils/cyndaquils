@@ -1,1 +1,1 @@
-$$\textcolor{#ff1700}{\blank}}$
+$\textcolor{#dedede}{\textsf{remind me to properly make a readme of this ok?}}$
